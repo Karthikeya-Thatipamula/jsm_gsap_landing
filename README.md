@@ -34,7 +34,6 @@ Liquid is a visually stunning, interactive landing page for a modern cocktail ba
 ## 📸 Preview
 
 ![Hero Section](public/readme/hero.png)
-![Menu Section](public/readme/jsmpro.png)
 
 ---
 
