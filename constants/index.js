@@ -8,7 +8,7 @@ const navLinks = [
 	title: "About Us",
  },
  {
-	id: "work",
+	id: "art",
 	title: "The Art",
  },
  {
@@ -22,25 +22,25 @@ const cocktailLists = [
 	name: "Chapel Hill Shiraz",
 	country: "AU",
 	detail: "Battle",
-	price: "$10",
+	price: "₹864.84",
  },
  {
 	name: "Caten Malbee",
 	country: "AU",
 	detail: "Battle",
-	price: "$49",
+	price: "₹4237.70",
  },
  {
 	name: "Rhino Pale Ale",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "₹1729.67",
  },
  {
 	name: "Irish Guinness",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "₹2508.02",
  },
 ];
 
@@ -49,25 +49,25 @@ const mockTailLists = [
 	name: "Tropical Bloom",
 	country: "US",
 	detail: "Battle",
-	price: "$10",
+	price: "₹259.45",
  },
  {
 	name: "Passionfruit Mint",
 	country: "US",
 	detail: "Battle",
-	price: "$49",
+	price: "₹3800.93",
  },
  {
 	name: "Citrus Glow",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "₹1297.25",
  },
  {
 	name: "Lavender Fizz",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "₹3026.93",
  },
 ];
 
@@ -105,12 +105,11 @@ const storeInfo = {
  address: "Worli, Mumbai, Near-Mahindra-Tower, Maharashtra, India",
  contact: {
 	phone: "9892789536",
-	email: "hello@ktcocktail.com",
+	email: "hello@liquidjs.com",
  },
 };
 
 const openingHours = [
- { day: "Mon–Thu", time: "11:00am – 12am" },
  { day: "Fri", time: "11:00am – 2am" },
  { day: "Sat", time: "9:00am – 2am" },
  { day: "Sun", time: "9:00am – 1am" },
